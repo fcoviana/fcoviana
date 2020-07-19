@@ -1,4 +1,4 @@
-# Francisco Viana :men_technologist:
+# Francisco Viana :man_technologist:
 
 ### Hello! 👋 Welcome to my profile
 
