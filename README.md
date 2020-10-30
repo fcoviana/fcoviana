@@ -11,7 +11,7 @@ I'm full-stack developer
 
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, Materialize, jQuery, PHP, Java, TypeScript
  - 💙 In love with Back-end
- - 📚 Currently learning NodeJs and Flutter
+ - 📚 Currently learning NodeJs, Flutter and VueJs
  - 😄 In my free time I usually play games, read, watch series and do program
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=francisco1030&show_icons=true" alt="fhugoduarte" /> </p>
