@@ -14,4 +14,4 @@ I'm full-stack developer
  - 📚 Currently learning NodeJs, Flutter and VueJs
  - 😄 In my free time I usually play games, read, watch series and do program
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=francisco1030&show_icons=true" alt="fhugoduarte" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=francisco1030&show_icons=true&theme=tokyonight" alt="fhugoduarte" /> </p>
